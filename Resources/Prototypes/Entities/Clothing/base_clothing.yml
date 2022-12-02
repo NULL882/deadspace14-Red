@@ -1,0 +1,12 @@
+- type: entity
+  abstract: true
+  parent: BaseItem
+  id: Clothing
+  components:
+  - type: Sprite
+    netsync: false
+  - type: Tag
+    tags:
+      - WhitelistChameleon
+  - type: StaticPrice
+    price: 15

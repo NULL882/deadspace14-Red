@@ -1,0 +1,13 @@
+- type: stack
+  id: Gold
+  name: gold
+  icon: "/Textures/Objects/Materials/ingots.rsi/gold.png"
+  spawn: IngotGold1
+  maxCount: 30
+
+- type: stack
+  id: Silver
+  name: silver
+  icon: "/Textures/Objects/Materials/ingots.rsi/silver.png"
+  spawn: IngotSilver1
+  maxCount: 30
