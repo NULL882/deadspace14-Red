@@ -11,8 +11,8 @@
   background: /Textures/LobbyScreens/warden.png
 
 - type: lobbyBackground
-  id: DeadSpace
-  background: /Textures/LobbyScreens/deadspace.png
+  id: Pharmacy
+  background: /Textures/LobbyScreens/pharmacy.png
 
 - type: lobbyBackground
   id: SSXIV
