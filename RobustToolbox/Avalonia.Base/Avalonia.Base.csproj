@@ -1,3 +1,0 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-  <Import Project="..\MSBuild\Robust.Properties.targets" />
-</Project>
